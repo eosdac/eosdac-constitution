@@ -327,11 +327,11 @@ NOW THEREFORE in consideration of the mutual promises contained in this T&amp;C 
 
 2. By accepting a Token, Member confirms that it is the holder of the Token, a member of the eosDAC and has read, understands and agrees to the T&amp;C. A person or entity shall indicate their acceptance of a Token by:
 
-&nbsp;&nbsp;&nbsp;(a)In the case of any initial recipient of a Token (or assignee/transferee thereof), pursuant to the Token Distribution (as defined hereinafter), by registering the Token through the eosDAC software.
+&nbsp;&nbsp;&nbsp;(a) In the case of any initial recipient of a Token (or assignee/transferee thereof), pursuant to the Token Distribution (as defined hereinafter), by registering the Token through the eosDAC software.
 
-&nbsp;&nbsp;&nbsp;(b)In any other case, by accepting the transfer or assignment of a Token from a holder of Tokens and/or registering the Token through the eosDAC software.
+&nbsp;&nbsp;&nbsp;(b) In any other case, by accepting the transfer or assignment of a Token from a holder of Tokens and/or registering the Token through the eosDAC software.
 
-&nbsp;&nbsp;&nbsp;(c)In either case, and in any event, by any usage of Tokens including but not limited to exercise of voting rights or receipt of distributions of assets.
+&nbsp;&nbsp;&nbsp;(c) In either case, and in any event, by any usage of Tokens including but not limited to exercise of voting rights or receipt of distributions of assets.
 
 3. BlockMaker Ltd has prepared a website, available at www.eosdac.io (&quot;Website&quot;), describing the proposed activities of eosDAC and the mechanisms through which such activities shall be conducted. By accepting and holding a Token, Member confirms that it has read and understands the Website.
 
@@ -351,11 +351,11 @@ NOW THEREFORE in consideration of the mutual promises contained in this T&amp;C 
 
 7. During the Token Distribution, Tokens shall be distributed by BlockMaker Ltd in the following tranches:
 
-&nbsp;&nbsp;&nbsp;(a)75% to holders of EOS tokens as at 1:00 UTC on 15thApril 2018, on the basis of one (1) eosDAC token for each one (1) EOS token held by a person or entity in an account with balance in excess 100 EOS (or, upon request, with a balance of less than 100 EOS) (&quot;Open Token Distribution&quot;).
+&nbsp;&nbsp;&nbsp;(a) 75% to holders of EOS tokens as at 1:00 UTC on 15thApril 2018, on the basis of one (1) eosDAC token for each one (1) EOS token held by a person or entity in an account with balance in excess 100 EOS (or, upon request, with a balance of less than 100 EOS) (&quot;Open Token Distribution&quot;).
 
 Any tokens not distributed from this tranche shall be &quot;burnt&quot; thereby permanently removing same from circulation.
 
-&nbsp;&nbsp;&nbsp;(b)25% to launch team, advisors, community supporters and eosDAC Ltd.
+&nbsp;&nbsp;&nbsp;(b) 25% to launch team, advisors, community supporters and eosDAC Ltd.
 
 8. Each Token shall constitute the holder thereof as a member of the eosDAC, entitled to all the benefits and subject to all the obligations set out in the Constitution.
 
@@ -371,7 +371,7 @@ Any tokens not distributed from this tranche shall be &quot;burnt&quot; thereby 
 
 **Token Distribution Restrictions**
 
-13. No U.S. Persons:        The Tokens are not being and/or are not intended to be distributed to any S. Person, citizen, resident or entity (&quot;Excluded Person&quot;) pursuant to the Open Token Distribution. If any Excluded Person accepts or purports to accept any Tokens pursuant to the Open Token Distribution by BlockMaker Ltd, such person would have taken such action in an inapplicable, unauthorized and/or unlawful manner and the Tokens shall not be deemed as accepted by such Excluded Person. Any Excluded Person who accepts Tokens pursuant to the Open Token Distribution shall be solely liable for any legal, regulatory, judicial or contractual consequences therefrom and shall indemnify, defend and hold harmless BlockMaker Ltd, eosDAC and any member, employee, officer, director, consultant, advisor, parents, subsidiaries, affiliates, servants or agents, past, present or future, thereof (collectively &quot;Indemnified EP&quot;) from any penalties, damages, losses, liability, costs or expenses, whether direct or indirect, consequential, compensatory, punitive, actual, exemplary, incidental or special and including without limitation any loss of business, revenues, profits, data, use, goodwill or other intangible losses (collectively, &quot;EP Damages&quot;)  arising out of or related to such Excluded Person&#39;s acceptance or purported acceptance of Tokens pursuant to the Open Token Distribution.
+13. No U.S. Persons: The Tokens are not being and/or are not intended to be distributed to any S. Person, citizen, resident or entity (&quot;Excluded Person&quot;) pursuant to the Open Token Distribution. If any Excluded Person accepts or purports to accept any Tokens pursuant to the Open Token Distribution by BlockMaker Ltd, such person would have taken such action in an inapplicable, unauthorized and/or unlawful manner and the Tokens shall not be deemed as accepted by such Excluded Person. Any Excluded Person who accepts Tokens pursuant to the Open Token Distribution shall be solely liable for any legal, regulatory, judicial or contractual consequences therefrom and shall indemnify, defend and hold harmless BlockMaker Ltd, eosDAC and any member, employee, officer, director, consultant, advisor, parents, subsidiaries, affiliates, servants or agents, past, present or future, thereof (collectively &quot;Indemnified EP&quot;) from any penalties, damages, losses, liability, costs or expenses, whether direct or indirect, consequential, compensatory, punitive, actual, exemplary, incidental or special and including without limitation any loss of business, revenues, profits, data, use, goodwill or other intangible losses (collectively, &quot;EP Damages&quot;)  arising out of or related to such Excluded Person&#39;s acceptance or purported acceptance of Tokens pursuant to the Open Token Distribution.
 
 
 
@@ -393,25 +393,25 @@ Any tokens not distributed from this tranche shall be &quot;burnt&quot; thereby 
 
 19. By accepting any Token, Member agrees to be bound by the T&amp;C and in particular, Member represents and warrants that:
 
-&nbsp;&nbsp;&nbsp;(a)It is authorized and has full power and authority to accept and hold the Token according to the laws that apply in Member&#39;s jurisdiction of domicile or other applicable jurisdiction; 
+&nbsp;&nbsp;&nbsp;(a) It is authorized and has full power and authority to accept and hold the Token according to the laws that apply in Member&#39;s jurisdiction of domicile or other applicable jurisdiction; 
 
-&nbsp;&nbsp;&nbsp;(b)It is authorized and has full power to execute, deliver and be bound by the T&amp;C and to carry out and perform its obligations thereunder;
+&nbsp;&nbsp;&nbsp;(b) It is authorized and has full power to execute, deliver and be bound by the T&amp;C and to carry out and perform its obligations thereunder;
 
-&nbsp;&nbsp;&nbsp;(c)If an individual, it is at least 18 years old and of sufficient legal age and capacity to accept and hold the Tokens and, if a legal person, it is validly constituted and in good standing under the laws of its domicile and each jurisdiction in which it operates or conducts business;
+&nbsp;&nbsp;&nbsp;(c) If an individual, it is at least 18 years old and of sufficient legal age and capacity to accept and hold the Tokens and, if a legal person, it is validly constituted and in good standing under the laws of its domicile and each jurisdiction in which it operates or conducts business;
 
-&nbsp;&nbsp;&nbsp;(d)That the execution, delivery and performance of and by Member under the T&amp;C requires no approval, authorization or other action from any governmental or regulatory authority or any other person, entity or bureau, whatsoever, other than Member;
+&nbsp;&nbsp;&nbsp;(d) That the execution, delivery and performance of and by Member under the T&amp;C requires no approval, authorization or other action from any governmental or regulatory authority or any other person, entity or bureau, whatsoever, other than Member;
 
-&nbsp;&nbsp;&nbsp;(e)That the execution delivery and performance of and by Member under the T&amp;C shall not, and will not in the future, result in any violation of, be in conflict with or constitute a material default under (i) any provision of Member&#39;s constitutional documents (if applicable), (ii) any provision of any judgment, order or decree to which Member is a party, by which Member is bound or to which Member&#39;s material assets are subject, (iii) any material agreement, obligation, duty or commitment to which Member is a party or is bound, or (iv) any laws, regulations, rules or contracts applicable to Member.
+&nbsp;&nbsp;&nbsp;(e) That the execution delivery and performance of and by Member under the T&amp;C shall not, and will not in the future, result in any violation of, be in conflict with or constitute a material default under (i) any provision of Member&#39;s constitutional documents (if applicable), (ii) any provision of any judgment, order or decree to which Member is a party, by which Member is bound or to which Member&#39;s material assets are subject, (iii) any material agreement, obligation, duty or commitment to which Member is a party or is bound, or (iv) any laws, regulations, rules or contracts applicable to Member.
 
-&nbsp;&nbsp;&nbsp;(f)It is not accepting and holding the Tokens for the purpose of any speculative investment; 
+&nbsp;&nbsp;&nbsp;(f) It is not accepting and holding the Tokens for the purpose of any speculative investment; 
 
-&nbsp;&nbsp;&nbsp;(g)It will not use any Tokens for any illegal activity,  including but not limited to money laundering and the financing of terrorism; 
+&nbsp;&nbsp;&nbsp;(g) It will not use any Tokens for any illegal activity,  including but not limited to money laundering and the financing of terrorism; 
 
-&nbsp;&nbsp;&nbsp;(h)It shall be responsible for determining whether the acceptance and holding of the Tokens is appropriate for it; 
+&nbsp;&nbsp;&nbsp;(h) It shall be responsible for determining whether the acceptance and holding of the Tokens is appropriate for it; 
 
-&nbsp;&nbsp;&nbsp;(i)It shall accept and hold the Tokens exclusively for usage in accordance with the Constitution of the eosDAC; 
+&nbsp;&nbsp;&nbsp;(i) It shall accept and hold the Tokens exclusively for usage in accordance with the Constitution of the eosDAC; 
 
-&nbsp;&nbsp;&nbsp;(j)It understands the risks associated with acceptance and holding of the Tokens (including but not limited to the risks related to the non-development of the eosDAC and its operations).
+&nbsp;&nbsp;&nbsp;(j) It understands the risks associated with acceptance and holding of the Tokens (including but not limited to the risks related to the non-development of the eosDAC and its operations).
 
 20. Upon request of or notification by BlockMaker Ltd or eosDAC, and from time to time, Member shall immediately provide information and documents that BlockMaker Ltd or eosDAC, in its or their sole discretion, deems necessary to comply with the laws, regulations, rules or agreements of or in relation to any applicable jurisdiction or blockchain, including but not limited to judicial decrees, order, processes or arbitral awards. Such documents or information shall include, but not be limited to, certified copies of Member&#39;s passport, utility bills, government identification cards, sworn statements and information and documentation relating to persons or entities affiliated with Member. Member expressly and irrevocably consents to the disclosure of such information and documentation, and the recording or making of copies thereof, required for compliance with any laws, regulations, rules or agreements of or in relation to any applicable jurisdiction or blockchain. Failure by Member to comply with any such request for information or documentation may result in measures taken against such Member, including but not limited to the unregistering of such Member as a member the eosDAC.
 
@@ -437,25 +437,25 @@ Any tokens not distributed from this tranche shall be &quot;burnt&quot; thereby 
 
 29. Member acknowledges, understands and agrees that the following further risks relate to the governance and/or operations of the Tokens and eosDAC:
 
-&nbsp;&nbsp;&nbsp;(a)Strong competition resulting in difficulty of eosDAC being voted/appointed as a main block producer of EOS blockchain;
+&nbsp;&nbsp;&nbsp;(a) Strong competition resulting in difficulty of eosDAC being voted/appointed as a main block producer of EOS blockchain;
 
-&nbsp;&nbsp;&nbsp;(b)Insufficient capacity to effectively implement activity and decisions of the eosDAC;
+&nbsp;&nbsp;&nbsp;(b) Insufficient capacity to effectively implement activity and decisions of the eosDAC;
 
-&nbsp;&nbsp;&nbsp;(c)Crypto market crash and/or low EOS token inflation resulting in token payments being insufficient to cover operating costs of eosDAC;
+&nbsp;&nbsp;&nbsp;(c) Crypto market crash and/or low EOS token inflation resulting in token payments being insufficient to cover operating costs of eosDAC;
 
-&nbsp;&nbsp;&nbsp;(d)Governance of eosDAC being subject to the control by small self interested groups;
+&nbsp;&nbsp;&nbsp;(d) Governance of eosDAC being subject to the control by small self interested groups;
 
-&nbsp;&nbsp;&nbsp;(e)DDoS or &quot;flood attacks&quot;;
+&nbsp;&nbsp;&nbsp;(e) DDoS or &quot;flood attacks&quot;;
 
-&nbsp;&nbsp;&nbsp;(f)Regulatory and Legal threats;
+&nbsp;&nbsp;&nbsp;(f) Regulatory and Legal threats;
 
-&nbsp;&nbsp;&nbsp;(g)Inappropriate content on EOS blockchain;
+&nbsp;&nbsp;&nbsp;(g) Inappropriate content on EOS blockchain;
 
-&nbsp;&nbsp;&nbsp;(h)Governance paralysis or other inability to reach quorum or effect governance decisions;
+&nbsp;&nbsp;&nbsp;(h) Governance paralysis or other inability to reach quorum or effect governance decisions;
 
-&nbsp;&nbsp;&nbsp;(i)Difficulties arising from use of block production revenue to pay for infrastructure including but not limited to difficulties in exchange of EOS tokens for fiat currency;
+&nbsp;&nbsp;&nbsp;(i) Difficulties arising from use of block production revenue to pay for infrastructure including but not limited to difficulties in exchange of EOS tokens for fiat currency;
 
-&nbsp;&nbsp;&nbsp;(j)Delays in implementation of EOSIO software.
+&nbsp;&nbsp;&nbsp;(j) Delays in implementation of EOSIO software.
 
 30. Member acknowledges, understands and agrees that the regulatory status of decentralized autonomous communities, cryptographic tokens, digital assets, blockchain technology and distributed ledger technology is unsettled and/or unclear in many jurisdictions, and it is difficult to predict how or whether international, governmental, regulatory and judicial authorities will regulate such technologies and organizations and how or whether such international, governmental, regulatory and judicial authorities may interpret or modify existing laws, regulations or rules that affect such matters. Member acknowledges, understands and agrees that such interpretation or modification may have adverse consequences to the Tokens, and their holders and usage thereof, and the eosDAC; such interpretations and modifications including but not limited to characterizing the Tokens as regulated financial instruments or characterizing the eosDAC as a regulated investment vehicle.  Member acknowledges, understands and agrees the eosDAC may cease operations in any jurisdiction, and discontinue membership of any persons residing or affected by any jurisdiction, in the event that the laws or regulations in such jurisdictions render it unlawful or commercially undesirable to maintain any link with such jurisdictions.
 
