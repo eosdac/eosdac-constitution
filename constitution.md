@@ -20,7 +20,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 | 1.10 | **Extraordinary Resolution** | means a resolution, determination or decision consented to by not less than 90% of the Custodians constituting the Custodian Board casting votes on such resolution, determination or decision |
 | 1.11 | **Genesis Member** | means BlockMaker Ltd, a company duly incorporated under the Anguilla International Business Companies Act (c. I20) |
 | 1.12 | **Genesis Board** | means BlockMaker Ltd, in the capacity of, and which shall be deemed, the Custodian Board pending the constitution of the first Custodian Board pursuant to and in accordance with the Constitution |
-| 1.13 | **Member** | means a member of the DAC, entitled, qua Member, to all the benefits and subject to all the obligations set out in the Constitution |
+| 1.13 | **Member** | means a member of the DAC, entitled, _qua_ Member, to all the benefits and subject to all the obligations set out in the Constitution |
 | 1.14 | **Nomination Directive** | means rules and regulations, approved by Special Resolution, as amended, restated, supplemented or otherwise modified from time to time, prescribing the procedure, qualifications (including staking) and mechanism for the nomination, election and appointment of Custodians to the Custodian Board |
 | 1.15 | **Person** | means an individual, a corporation, a trust, the estate of a deceased individual, a partnership or an unincorporated association of persons |
 | 1.16 | **Proposal** | means a proposal submitted by a Member to the Custodian Board for consideration and determination by the Custodian Board, in accordance with the provisions of the Constitution, and shall include but not be limited to proposals on bounties, technical choices, services providers, contingency levels and allocations of tokens raised through block production by or through the DAC |
@@ -41,7 +41,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 &nbsp;&nbsp;&nbsp; **1.29** A reference in this Constitution to voting in relation to Members shall be construed as a reference to voting by Members to the extent of the number of DAC Tokens held by such Members, with the votes being allocated to the number of such DAC Tokens being counted as voted and not the number of Members who actually voted
 
-&nbsp;&nbsp;&nbsp; **1.30** A reference to money in this Constitution is, unless otherwise stated, a reference to the fiat currency of any nationality
+&nbsp;&nbsp;&nbsp; **1.30** A reference to money in this Constitution is, unless otherwise stated, a reference to the _fiat_ currency of any nationality
 
 # 2. **CORE PRINCIPLES**
 
@@ -73,11 +73,11 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 &nbsp;&nbsp;&nbsp; **3.3** __Membership:__ DAC Tokens shall, upon registration, constitute and represent the holder thereof, from time to time, as a Member of the DAC, entitled qua Member to all the benefits, and subject to all the obligations, set out in this Constitution and in proportion to the number of DAC Tokens held by such holder, from time to time, PROVIDED ALWAYS that Membership shall be inseparably linked to possession and control of the DAC Tokens and should any holder thereof lose possession or control of or over any such DAC Tokens, such holder shall be deemed immediately terminated as a Member and shall not be entitled qua Member to any benefits, or subject to any obligations, as aforesaid, to the extent of the DAC Tokens over which possession or control was lost.
 
-&nbsp;&nbsp;&nbsp; **3.4** __Benefits of Members:__ The DAC Tokens shall entitle the holder thereof and from time to time, qua Member of the DAC, to the following rights in proportion to the number of DAC Tokens held by such holder as measured against the total number of outstanding DAC Tokens:
+&nbsp;&nbsp;&nbsp; **3.4** __Benefits of Members:__ The DAC Tokens shall entitle the holder thereof and from time to time, _qua_ Member of the DAC, to the following rights in proportion to the number of DAC Tokens held by such holder as measured against the total number of outstanding DAC Tokens:
 
 1. (a) Right to Benefits to Members of the DAC prescribed by and pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution.
 
-1. (b) Right to Vote in the DAC on any matter requiring or permitting a vote of members of the DAC prescribed by and pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution.
+1. (b) Right to Vote in the DAC on any matter requiring or permitting a vote of member&#39;s of the DAC prescribed by and pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution.
 
 1. (c\) Right to Distribution of Assets of the DAC, required or permitted to be distributed to Members of the DAC pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution.
 
@@ -143,7 +143,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 &nbsp;&nbsp;&nbsp; **5.6** Each Custodian shall hold office for the term of one (1) calendar week, commencing at midnight on the date of appointment and concluding at midnight on the final day of such calendar week, save and except that the term for the first Custodian Board, superseding the Genesis Board, shall be deemed to commence at midnight of the day of attainment of the Activation Threshold.
 
-&nbsp;&nbsp;&nbsp; **5.7** In the case of a Custodian who is an individual the term of office for such member shall terminate on the individual's death, resignation or removal. The bankruptcy, resignation or removal of a corporate Custodian shall terminate the term of office of such Custodian.
+&nbsp;&nbsp;&nbsp; **5.7** In the case of a Custodian who is an individual the term of office for such member shall terminate on the individual&#39;s death, resignation or removal. The bankruptcy, resignation or removal of a corporate Custodian shall terminate the term of office of such Custodian.
 
 &nbsp;&nbsp;&nbsp; **5.8** Emoluments of each Custodian during a term shall be the median of the Candidate Emoluments Declaration of Custodians appointed for such term divided by twelve (12), and shall be paid to each Custodian automatically and at the expiration of each term held by such Custodian or as otherwise provided by Nomination Directive.
 
