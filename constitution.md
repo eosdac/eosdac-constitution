@@ -17,7 +17,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 | 1.7 | **DAC** | the eosDAC decentralized autonomous community of Members governed by and administered in accordance with the terms and conditions of the Constitution, which community of Members shall be collectively referred to as the "eosDAC" |
 | 1.8 | **DAC Token** | means an eosDAC Token, the acceptance of which shall constitute the holder thereof as a Member of the DAC, represent the membership of such holder of the DAC and facilitate the automated governance of the DAC, all subject to and in accordance with the provisions of the Constitution |
 | 1.9 | **DAPP** | means a decentralized application running on a Blockchain |
-| 1.10 | **Extraordinary Resolution** | means a resolution, determination or decision consented to by not less than 90% of the Custodians constituting the Custodian Board casting votes on such resolution, determination or decision |
+| 1.10 | **Extraordinary Resolution** | means a resolution, determination or decision consented to by not less than 83% of the Custodians constituting the Custodian Board casting votes on such resolution, determination or decision |
 | 1.11 | **Genesis Member** | means BlockMaker Ltd, a company duly incorporated under the Anguilla International Business Companies Act (c. I20) |
 | 1.12 | **Genesis Board** | means BlockMaker Ltd, in the capacity of, and which shall be deemed, the Custodian Board pending the constitution of the first Custodian Board pursuant to and in accordance with the Constitution |
 | 1.13 | **Member** | means a member of the DAC, entitled, _qua_ Member, to all the benefits and subject to all the obligations set out in the Constitution |
