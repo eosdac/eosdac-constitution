@@ -139,7 +139,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 &nbsp;&nbsp;&nbsp; **5.4** Each candidate for the position of Custodian must be a Member and may be an individual or a legal entity.
 
-&nbsp;&nbsp;&nbsp; **5.5** Custodians shall be nominated, elected and appointed in accordance with the procedure, qualifications and mechanism prescribed by Nomination Directive, from time to time, which Nomination Directive shall include, but shall not be limited to, provisions requiring each candidate to make a declaration specifying the emoluments that such candidate shall require if appointed, up to a maximum amount 250 EOS for each one week term, (&quot;Candidate Emoluments Declaration&quot;), such maximum amount being subject to change by Special Resolution.
+&nbsp;&nbsp;&nbsp; **5.5** Custodians shall be nominated, elected and appointed in accordance with the procedure, qualifications and mechanism prescribed by Nomination Directive, from time to time, which Nomination Directive shall include, but shall not be limited to, provisions requiring each candidate to make a declaration specifying the emoluments that such candidate shall require if appointed, up to a maximum amount 50 EOS for each one week term, (&quot;Candidate Emoluments Declaration&quot;), such maximum amount being subject to change by Special Resolution.
 
 &nbsp;&nbsp;&nbsp; **5.6** Each Custodian shall hold office for the term of one (1) calendar week, commencing at midnight on the date of appointment and concluding at midnight on the final day of such calendar week, save and except that the term for the first Custodian Board, superseding the Genesis Board, shall be deemed to commence at midnight of the day of attainment of the Activation Threshold.
 
