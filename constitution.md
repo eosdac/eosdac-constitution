@@ -145,7 +145,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 &nbsp;&nbsp;&nbsp; **5.7** In the case of a Custodian who is an individual the term of office for such member shall terminate on the individual&#39;s death, resignation or removal. The bankruptcy, resignation or removal of a corporate Custodian shall terminate the term of office of such Custodian.
 
-&nbsp;&nbsp;&nbsp; **5.8** Emoluments of each Custodian during a term shall be the median of the Candidate Emoluments Declaration of Custodians appointed for such term divided by twelve (12), and shall be paid to each Custodian automatically and at the expiration of each term held by such Custodian or as otherwise provided by Nomination Directive.
+&nbsp;&nbsp;&nbsp; **5.8** Emoluments of each Custodian during a term shall be the mean of the Candidate Emoluments Declaration of Custodians appointed for such term divided by twelve (12), and shall be paid to each Custodian automatically and at the expiration of each term held by such Custodian or as otherwise provided by Nomination Directive.
 
 &nbsp;&nbsp;&nbsp; **5.9** A Custodian may be removed from office, with or without cause, by Special Resolution of the Custodian Board.
 
