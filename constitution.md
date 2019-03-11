@@ -34,8 +34,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 | 1.24 | **Token Distribution** | means the initial distribution of the DAC Tokens by the Genesis Member to specified persons, or their assignees or transferees, inviting such persons to accept and hold DAC Tokens, _gratis_, and to become members of the DAC |
 | 1.25 | **Voting Directive** | means rules and regulations, approved by Special Resolution, as amended, restated, supplemented or otherwise modified from time to time, prescribing the subject matter of (where applicable), and the procedure, qualifications and mechanism for, voting by Members and Custodians, including but not limited to quorums, consensus and staking of DAC Tokens |
 | 1.26 | **Website** | means the website published and maintained by or on behalf of the DAC and hosted at [https://eosdac.io/](https://eosdac.io/) or such other URL prescribed by Resolution. |
-
-&nbsp;&nbsp;&nbsp; **1.27** **Written** or any term of like import includes words typewritten, printed, painted, engraved, lithographed, photographed or represented or reproduced by any mode of representing or reproducing words in a visible form, including telex, telegram, facsimile, cable or other form of writing produced by electronic communication
+| 1.27 | **Written** | or any term of like import includes words typewritten, printed, painted, engraved, lithographed, photographed or represented or reproduced by any mode of representing or reproducing words in a visible form, including telex, telegram, facsimile, cable or other form of writing produced by electronic communication |
 
 &nbsp;&nbsp;&nbsp; **1.28** Whenever the singular or plural number, or the masculine, feminine or neuter gender is used in this Constitution, it shall equally, where the context admits, include the others
 
