@@ -540,3 +540,4 @@ Any tokens not distributed from this tranche shall be &quot;burnt&quot; thereby 
 
 57. The provisions of the T&amp;C relating to Dispute Resolution shall become operational only in the event that the relevant dispute does not fall within the ambit and/or jurisdiction of the dispute resolution provisions set out in the Constitution of the eosDAC. To the extent that any dispute falls within the ambit and/or jurisdiction of the Constitution of the eosDAC, whether exclusively or concurrently with the T&amp;C, Member shall first and exclusively seek dispute resolution pursuant to the dispute resolution provisions of the Constitution.
 
+_Last Modified March 11th, 2019_
