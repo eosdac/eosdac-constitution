@@ -34,8 +34,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 | 1.24 | **Token Distribution** | means the initial distribution of the DAC Tokens by the Genesis Member to specified persons, or their assignees or transferees, inviting such persons to accept and hold DAC Tokens, _gratis_, and to become members of the DAC |
 | 1.25 | **Voting Directive** | means rules and regulations, approved by Special Resolution, as amended, restated, supplemented or otherwise modified from time to time, prescribing the subject matter of (where applicable), and the procedure, qualifications and mechanism for, voting by Members and Custodians, including but not limited to quorums, consensus and staking of DAC Tokens |
 | 1.26 | **Website** | means the website published and maintained by or on behalf of the DAC and hosted at [https://eosdac.io/](https://eosdac.io/) or such other URL prescribed by Resolution. |
-
-&nbsp;&nbsp;&nbsp; **1.27** **Written** or any term of like import includes words typewritten, printed, painted, engraved, lithographed, photographed or represented or reproduced by any mode of representing or reproducing words in a visible form, including telex, telegram, facsimile, cable or other form of writing produced by electronic communication
+| 1.27 | **Written** | or any term of like import includes words typewritten, printed, painted, engraved, lithographed, photographed or represented or reproduced by any mode of representing or reproducing words in a visible form, including telex, telegram, facsimile, cable or other form of writing produced by electronic communication |
 
 &nbsp;&nbsp;&nbsp; **1.28** Whenever the singular or plural number, or the masculine, feminine or neuter gender is used in this Constitution, it shall equally, where the context admits, include the others
 
@@ -145,7 +144,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 &nbsp;&nbsp;&nbsp; **5.7** In the case of a Custodian who is an individual the term of office for such member shall terminate on the individual&#39;s death, resignation or removal. The bankruptcy, resignation or removal of a corporate Custodian shall terminate the term of office of such Custodian.
 
-&nbsp;&nbsp;&nbsp; **5.8** Emoluments of each Custodian during a term shall be the median of the Candidate Emoluments Declaration of Custodians appointed for such term divided by twelve (12), and shall be paid to each Custodian automatically and at the expiration of each term held by such Custodian or as otherwise provided by Nomination Directive.
+&nbsp;&nbsp;&nbsp; **5.8** Emoluments of each Custodian during a term shall be the mean of the Candidate Emoluments Declaration of Custodians appointed for such term divided by twelve (12), and shall be paid to each Custodian automatically and at the expiration of each term held by such Custodian or as otherwise provided by Nomination Directive.
 
 &nbsp;&nbsp;&nbsp; **5.9** A Custodian may be removed from office, with or without cause, by Special Resolution of the Custodian Board.
 
@@ -541,3 +540,4 @@ Any tokens not distributed from this tranche shall be &quot;burnt&quot; thereby 
 
 57. The provisions of the T&amp;C relating to Dispute Resolution shall become operational only in the event that the relevant dispute does not fall within the ambit and/or jurisdiction of the dispute resolution provisions set out in the Constitution of the eosDAC. To the extent that any dispute falls within the ambit and/or jurisdiction of the Constitution of the eosDAC, whether exclusively or concurrently with the T&amp;C, Member shall first and exclusively seek dispute resolution pursuant to the dispute resolution provisions of the Constitution.
 
+_Last Modified March 11th, 2019_
